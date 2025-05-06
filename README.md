@@ -1,1 +1,4 @@
-![](https://github.com/PatrosAction/ser-images/raw/main/ZHzB933%20-%20Imgur.gif)
+<p align="right">
+  <img src="https://github.com/PatrosAction/ser-images/raw/main/ZHzB933%20-%20Imgur.gif" width="300">
+</p>
+
