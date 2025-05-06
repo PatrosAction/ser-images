@@ -1,1 +1,1 @@
-https://github.com/PatrosAction/ser-images/blob/main/ZHzB933%20-%20Imgur.gif
+![My GIF](https://github.com/PatrosAction/ser-images/raw/main/ZHzB933%20-%20Imgur.gif)
